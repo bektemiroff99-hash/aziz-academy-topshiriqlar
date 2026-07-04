@@ -1,1 +1,1 @@
-input
+print("A-B-C -> Yakun")
