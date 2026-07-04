@@ -1,1 +1,5 @@
-input
+print("*****")
+print("*****")
+print("*****")
+print("*****")
+print("*****")
