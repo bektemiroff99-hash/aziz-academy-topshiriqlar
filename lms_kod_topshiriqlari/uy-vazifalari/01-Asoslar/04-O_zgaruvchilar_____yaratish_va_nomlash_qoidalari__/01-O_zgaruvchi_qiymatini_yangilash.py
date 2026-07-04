@@ -1,1 +1,2 @@
-input
+print("Boshlandi")
+print("Tugadi")
