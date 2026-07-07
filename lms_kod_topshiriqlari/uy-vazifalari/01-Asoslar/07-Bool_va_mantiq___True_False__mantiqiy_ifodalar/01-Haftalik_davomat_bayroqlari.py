@@ -1,1 +1,5 @@
-input
+print("Dushanba: True")
+print("Seshanba: True")
+print("Chorshanba: False")
+print("Payshanba: True")
+print("Juma: False")
