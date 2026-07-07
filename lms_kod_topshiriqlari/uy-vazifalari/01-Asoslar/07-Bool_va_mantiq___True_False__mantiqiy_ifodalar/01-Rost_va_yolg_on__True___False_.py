@@ -1,1 +1,2 @@
-input
+print(True)
+print(False)
