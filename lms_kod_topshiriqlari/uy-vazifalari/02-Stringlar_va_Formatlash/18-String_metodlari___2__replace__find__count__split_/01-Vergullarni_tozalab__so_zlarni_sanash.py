@@ -1,0 +1,5 @@
+s = input()
+s = s.replace(",", " ")
+sozlar = s.split()
+print(" ".join(sozlar))
+print(len(sozlar))
