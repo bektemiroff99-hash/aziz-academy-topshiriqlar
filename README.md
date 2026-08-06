@@ -4,33 +4,33 @@
 
 ## 📊 Umumiy progress
 
-`░░░░░░░░░░░░░░░░░░░░` **1%**  (2/179 mavzu)
+`█░░░░░░░░░░░░░░░░░░░` **7%**  (13/179 mavzu)
 
-- ⭐ Jami ball: **27128**
-- 📤 GitHubga yuborilgan topshiriqlar: **217**
+- ⭐ Jami ball: **34461**
+- 📤 GitHubga yuborilgan topshiriqlar: **218**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 1 — Asoslar** → **O'rnatish va muhit — Python, interpreter, IDE sozlash**
+**MODUL 1 — Asoslar** → **🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)**
 
-➡️ Keyingi mavzu: *Birinchi dastur ⭐ — print() va kommentlar*
+➡️ Keyingi mavzu: *Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
 - ✅ Dasturlashga kirish — Python nima va nega o'rganamiz
-- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash  ← yetgan joyingiz
-- ⬜ Birinchi dastur ⭐ — print() va kommentlar
-- ⬜ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
-- ⬜ Sonlar: int va float — butun va kasr sonlar
-- ⬜ Stringlar — kirish: matn, qo'shtirnoqlar, len()
-- ⬜ Bool va mantiq — True/False, mantiqiy ifodalar
-- ⬜ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
-- ⬜ Arifmetik operatorlar — + - * / // % ** va prioritet
-- ⬜ Mantiqiy operatorlar — and, or, not
-- ⬜ Solishtirish operatorlari — == != > < >= <=
-- ⬜ Type casting ⭐ — type(), int(), float(), str(), bool()
-- ⬜ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)
+- ✅ O'rnatish va muhit — Python, interpreter, IDE sozlash
+- ✅ Birinchi dastur ⭐ — print() va kommentlar
+- ✅ O'zgaruvchilar ⭐ — yaratish va nomlash qoidalari (snake_case)
+- ✅ Sonlar: int va float — butun va kasr sonlar
+- ✅ Stringlar — kirish: matn, qo'shtirnoqlar, len()
+- ✅ Bool va mantiq — True/False, mantiqiy ifodalar
+- ✅ input() bilan ishlash ⭐ — foydalanuvchidan ma'lumot olish
+- ✅ Arifmetik operatorlar — + - * / // % ** va prioritet
+- ✅ Mantiqiy operatorlar — and, or, not
+- ✅ Solishtirish operatorlari — == != > < >= <=
+- ✅ Type casting ⭐ — type(), int(), float(), str(), bool()
+- ✅ 🛠 Mini-loyiha: Kalkulyator — ikki son ustida amallar (CLI)  ← yetgan joyingiz
 - ⬜ Kod madaniyati: PEP8 — bo'sh joy, nomlash, o'qiluvchanlik
 - ⬜ Xatolik turlari 🔁 — syntax vs runtime, xatoni o'qish
 
@@ -40,7 +40,7 @@
 
 | # | Modul | Progress | Mavzular |
 |---|-------|----------|----------|
-| 1 | 🔸 Asoslar | `█░░░░░░░░░` 13% | 2/15 |
+| 1 | 🔸 Asoslar | `█████████░` 87% | 13/15 |
 | 2 | ⬜ Stringlar va Formatlash | `░░░░░░░░░░` 0% | 0/10 |
 | 3 | ⬜ Shartlar va Sikllar | `░░░░░░░░░░` 0% | 0/15 |
 | 4 | ⬜ Ma'lumot Tuzilmalari | `░░░░░░░░░░` 0% | 0/18 |
@@ -63,4 +63,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-07-18 13:32</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-08-06 13:24</sub>
