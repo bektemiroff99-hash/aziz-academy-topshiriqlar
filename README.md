@@ -4,26 +4,26 @@
 
 ## 📊 Umumiy progress
 
-`█████░░░░░░░░░░░░░░░` **23%**  (41/179 mavzu)
+`█████░░░░░░░░░░░░░░░` **26%**  (46/179 mavzu)
 
-- ⭐ Jami ball: **49306**
-- 📤 GitHubga yuborilgan topshiriqlar: **363**
+- ⭐ Jami ball: **52504**
+- 📤 GitHubga yuborilgan topshiriqlar: **364**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **List — yaratish va index ⭐ — ro'yxat asoslari**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **Tuple unpacking ⭐ — a, b = b, a**
 
-➡️ Keyingi mavzu: *List metodlari — append, insert, remove, pop, sort, reverse*
+➡️ Keyingi mavzu: *Dict — asoslar ⭐ — key/value, qiymatga murojaat*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List — yaratish va index ⭐ — ro'yxat asoslari  ← yetgan joyingiz
-- ⬜ List metodlari — append, insert, remove, pop, sort, reverse
-- ⬜ List slicing va copy — list(), [:], shallow copy
-- ⬜ 🛠 List bilan masalalar — filtrlash, transformatsiya
-- ⬜ Tuple — o'zgarmas tuzilma, qachon kerak
-- ⬜ Tuple unpacking ⭐ — a, b = b, a
+- ✅ List — yaratish va index ⭐ — ro'yxat asoslari
+- ✅ List metodlari — append, insert, remove, pop, sort, reverse
+- ✅ List slicing va copy — list(), [:], shallow copy
+- ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya
+- ✅ Tuple — o'zgarmas tuzilma, qachon kerak
+- ✅ Tuple unpacking ⭐ — a, b = b, a  ← yetgan joyingiz
 - ⬜ Dict — asoslar ⭐ — key/value, qiymatga murojaat
 - ⬜ Dict metodlari — keys(), values(), items(), get()
 - ⬜ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
@@ -46,7 +46,7 @@
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `█░░░░░░░░░` 6% | 1/18 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `███░░░░░░░` 33% | 6/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-15 12:59</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-09-17 13:01</sub>
