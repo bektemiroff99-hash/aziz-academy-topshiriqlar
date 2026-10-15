@@ -4,38 +4,38 @@
 
 ## 📊 Umumiy progress
 
-`██████░░░░░░░░░░░░░░` **28%**  (51/179 mavzu)
+`██████░░░░░░░░░░░░░░` **29%**  (52/179 mavzu)
 
-- ⭐ Jami ball: **72357**
-- 📤 GitHubga yuborilgan topshiriqlar: **425**
+- ⭐ Jami ball: **73026**
+- 📤 GitHubga yuborilgan topshiriqlar: **426**
 
 ## 🎯 Qaysi mavzuga yetdingiz
 
-**MODUL 4 — Ma'lumot Tuzilmalari** → **Set operatsiyalari — union, intersection, difference**
+**MODUL 4 — Ma'lumot Tuzilmalari** → **List of dicts ⭐ - o'quvchilar/mahsulotlar ro'yxati**
 
-➡️ Keyingi mavzu: *List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati*
+➡️ Keyingi mavzu: *Nested structures - dict ichida list, list ichida dict*
 
 <details open>
 <summary>Shu moduldagi mavzular</summary>
 
-- ✅ List — yaratish va index ⭐ — ro'yxat asoslari
-- ✅ List metodlari — append, insert, remove, pop, sort, reverse
-- ✅ List slicing va copy — list(), [:], shallow copy
-- ✅ 🛠 List bilan masalalar — filtrlash, transformatsiya
-- ✅ Tuple — o'zgarmas tuzilma, qachon kerak
-- ✅ Tuple unpacking ⭐ — a, b = b, a
-- ✅ Dict — asoslar ⭐ — key/value, qiymatga murojaat
-- ✅ Dict metodlari — keys(), values(), items(), get()
-- ✅ 🛠 Dict bilan masalalar — lug'atlar, sozlamalar, hisoblagich
-- ✅ Set — asoslar: yaratilish, in, len, takrorlanmaslik
-- ✅ Set operatsiyalari — union, intersection, difference  ← yetgan joyingiz
-- ⬜ List of dicts ⭐ — o'quvchilar/mahsulotlar ro'yxati
-- ⬜ Nested structures — dict ichida list, list ichida dict
-- ⬜ Ma'lumotni tanlash ⭐ — list vs dict vs set
-- ⬜ Big O — kirish ⭐ — nega dict tez, list sekin?
-- ⬜ 🛠 Loyiha: Statistik hisoblagich — o'rtacha, mediana, moda
-- ⬜ 🛠 Loyiha: Konsol jadval — ma'lumotni jadval ko'rinishida
-- ⬜ Mustahkamlash 🔁 — barcha tuzilmalar bo'yicha mashqlar
+- ✅ List - yaratish va index ⭐ - ro'yxat asoslari
+- ✅ List metodlari - append, insert, remove, pop, sort, reverse
+- ✅ List slicing va copy - list(), [:], shallow copy
+- ✅ 🛠 List bilan masalalar - filtrlash, transformatsiya
+- ✅ Tuple - o'zgarmas tuzilma, qachon kerak
+- ✅ Tuple unpacking ⭐ - a, b = b, a
+- ✅ Dict - asoslar ⭐ - key/value, qiymatga murojaat
+- ✅ Dict metodlari - keys(), values(), items(), get()
+- ✅ 🛠 Dict bilan masalalar - lug'atlar, sozlamalar, hisoblagich
+- ✅ Set - asoslar: yaratilish, in, len, takrorlanmaslik
+- ✅ Set operatsiyalari - union, intersection, difference
+- ✅ List of dicts ⭐ - o'quvchilar/mahsulotlar ro'yxati  ← yetgan joyingiz
+- ⬜ Nested structures - dict ichida list, list ichida dict
+- ⬜ Ma'lumotni tanlash ⭐ - list vs dict vs set
+- ⬜ Big O - kirish ⭐ - nega dict tez, list sekin?
+- ⬜ 🛠 Loyiha: Statistik hisoblagich - o'rtacha, mediana, moda
+- ⬜ 🛠 Loyiha: Konsol jadval - ma'lumotni jadval ko'rinishida
+- ⬜ Mustahkamlash 🔁 - barcha tuzilmalar bo'yicha mashqlar
 
 </details>
 
@@ -46,7 +46,7 @@
 | 1 | ✅ Asoslar | `██████████` 100% | 15/15 |
 | 2 | ✅ Stringlar va Formatlash | `██████████` 100% | 10/10 |
 | 3 | ✅ Shartlar va Sikllar | `██████████` 100% | 15/15 |
-| 4 | 🔸 Ma'lumot Tuzilmalari | `██████░░░░` 61% | 11/18 |
+| 4 | 🔸 Ma'lumot Tuzilmalari | `███████░░░` 67% | 12/18 |
 | 5 | ⬜ Comprehensions | `░░░░░░░░░░` 0% | 0/5 |
 | 6 | ⬜ Funksiyalar | `░░░░░░░░░░` 0% | 0/12 |
 | 7 | ⬜ Modullar va Fayllar | `░░░░░░░░░░` 0% | 0/15 |
@@ -66,4 +66,4 @@
 - `lms_yozma_topshiriqlari/` — yozma javoblar
 
 ---
-<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-13 13:40</sub>
+<sub>🤖 Aziz Academy · avtomatik yangilanadi · 2026-10-15 13:54</sub>
